@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 elements to &apos;25b_ClasesAbstractas/src/abstractas.conmetodos&apos;&#x0D;&#x0A;- Original project: &apos;25b_ClasesAbstractas&apos;&#x0D;&#x0A;- Destination element: &apos;25b_ClasesAbstractas/src/abstractas.conmetodos&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     abstractas.AbstractaConMetodos.java&#x0D;&#x0A;     abstractas.DerivadaConMetodos.java&#x0D;&#x0A;- Update references to refactored element" description="Move compilation units" destination="/src&lt;abstractas.conmetodos" element1="/src&lt;abstractas{AbstractaConMetodos.java" element2="/src&lt;abstractas{DerivadaConMetodos.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1508584300044" units="2" version="1.0"/>
+</session>

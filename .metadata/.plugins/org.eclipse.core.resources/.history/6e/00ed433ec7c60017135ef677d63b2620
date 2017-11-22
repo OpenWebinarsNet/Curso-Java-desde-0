@@ -1,0 +1,14 @@
+package usodesuper;
+
+public class ClaseBase {
+	
+	private String mensaje;
+	
+	
+	
+	public void imprimir() {
+		//System.out.println("Saludo desde la clase base");
+		System.out.println(mensaje);
+	}
+
+}

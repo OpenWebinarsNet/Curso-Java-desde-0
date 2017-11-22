@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;count&apos; in &apos;repeticion.Repeticion01.main(...)&apos; to &apos;contador&apos;&#x0D;&#x0A;- Original project: &apos;08_Repeticion&apos;&#x0D;&#x0A;- Original element: &apos;repeticion.Repeticion01.main(String[]).count&apos;&#x0D;&#x0A;- Renamed element: &apos;count&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;count&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;repeticion{Repeticion01.java[Repeticion01~main~\[QString;@count!182!195!186!190!I!0!false" name="contador" references="true" stamp="1508061028943" version="1.0"/>
+</session>

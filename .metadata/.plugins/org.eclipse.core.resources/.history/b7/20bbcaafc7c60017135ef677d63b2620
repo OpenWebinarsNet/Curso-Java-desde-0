@@ -1,0 +1,21 @@
+package usodesuper;
+
+
+public class ClaseDerivada extends ClaseBase {
+	
+	private String otroMensaje;
+	
+	public ClaseDerivada() {
+		super("Desde la clase derivada");
+	}
+	
+	public ClaseDerivada(String mensaje) {
+		super(mensaje);
+	}
+	
+	
+	public void imprimir() {
+		super.imprimir();
+		System.out.println("Saludo desde la clase derivada");
+	}
+}

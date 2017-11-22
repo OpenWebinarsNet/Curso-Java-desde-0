@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;ejemplolambda.C_ApiStream&apos; to &apos;B_ApiStream&apos;&#x0D;&#x0A;- Original project: &apos;A_Lambda&apos;&#x0D;&#x0A;- Original element: &apos;ejemplolambda.C_ApiStream&apos;&#x0D;&#x0A;- Renamed element: &apos;ejemplolambda.B_ApiStream&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;C_ApiStream&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ejemplolambda{C_ApiStream.java[C_ApiStream" matchStrategy="1" name="B_ApiStream" qualified="false" references="true" similarDeclarations="false" stamp="1510165734719" textual="false" version="1.0"/>
+</session>

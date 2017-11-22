@@ -1,0 +1,10 @@
+package usodesuper;
+
+
+public class ClaseDerivada extends ClaseBase {
+	
+	public void imprimir() {
+		//super.imprimir();
+		System.out.println("Saludo desde la clase derivada");
+	}
+}

@@ -1,0 +1,20 @@
+/**
+ * 
+ */
+package excepciones;
+
+/**
+ * @author Openwebinars
+ *
+ */
+public class EjemploTratamientoExcepciones {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
